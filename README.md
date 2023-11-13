@@ -6,8 +6,6 @@
   
 </div>
 --!>
-<br>
-<br>
 <h3 align="center"> Game Client Developer </h3>
 
 <div align="center">
