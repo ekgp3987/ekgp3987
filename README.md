@@ -6,7 +6,7 @@
   
 </div>
 --!>
-<h3 align="center"> Game Client Developer </h3>
+<h3 align="center"> Game Developer♥ </h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekgp3987&layout=compact&theme=buefy"/></div>
